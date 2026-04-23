@@ -1,0 +1,5 @@
+# Security Policy
+Contact: mailto:support@cynte.com
+Encryption: https://cynte.com/security-pgp-key.asc
+Policy: https://cynte.com/security-disclosure-policy
+Expires: 2030-04-01T00:00:00z
